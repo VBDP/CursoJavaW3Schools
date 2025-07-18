@@ -18,7 +18,9 @@ public class Main {
 	
 	
 	public static void main(String[] args) {
-		
+		// --------------------------------------------------------------
+		// ------- Declaración de variables aquí abajo ------------------
+		// --------------------------------------------------------------
 		String prueba = "Output de un String";
 		int numero1 = 1;
 		final int numero2 = 2;
@@ -29,7 +31,14 @@ public class Main {
 		//Declarando multiples variables con y sin valor
 		int x,y,z;
 		int a=1, b=2,c=3;
+		// ------------------------------------------------------------
+		// ------------------------------------------------------------
+		// ------------------------------------------------------------
 		
+		
+		System.out.println("=========================================");
+		System.out.println("Capítulo 2: Outputs");
+		System.out.println("=========================================");
 			//Text Outputs
 		System.out.println("Pruebas con Strings:");
 		System.out.println("Hello World!");
@@ -37,6 +46,8 @@ public class Main {
 		System.out.println("It is awesome!");
 		System.out.println("=========================================");
 		//Number Outputs
+		System.out.println("Capítulo 3: Variables");
+		System.out.println("=========================================");
 		System.out.println("Pruebas con numeros");
 		System.out.println(1);
 		System.out.println(4.50);
