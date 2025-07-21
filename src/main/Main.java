@@ -35,7 +35,7 @@ public class Main {
 		// ------------------------------------------------------------
 		// ------------------------------------------------------------
 		
-		
+	
 		System.out.println("=========================================");
 		System.out.println("Capítulo 2: Outputs");
 		System.out.println("=========================================");
@@ -44,8 +44,8 @@ public class Main {
 		System.out.println("Hello World!");
 		System.out.println("I am learning Java.");
 		System.out.println("It is awesome!");
+		
 		System.out.println("=========================================");
-		//Number Outputs
 		System.out.println("Capítulo 3: Variables");
 		System.out.println("=========================================");
 		System.out.println("Pruebas con numeros");
@@ -59,5 +59,16 @@ public class Main {
 		System.out.println("Output de un Boolean: " + truefalse);
 		System.out.println("Output de tres variables declaradas en una linea: " + a + b + c);
 		System.out.println("=========================================");
+		
+		System.out.println("=========================================");
+		System.out.println("Capítulo 4: Data Types");
+		System.out.println("=========================================");
+		System.out.println("Hay dos tipos: Primitivos y No primitivos.");
+		System.out.println("Primitivos son todos menos Strings, Arrays y Clases");
+		System.out.println("No primitivos son Strings, Arrays y Clases");
+		System.out.println("·········································");
+		
+		
+		
 	}
 }
