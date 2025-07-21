@@ -66,7 +66,13 @@ public class Main {
 		System.out.println("Hay dos tipos: Primitivos y No primitivos.");
 		System.out.println("Primitivos son todos menos Strings, Arrays y Clases");
 		System.out.println("No primitivos son Strings, Arrays y Clases");
+		System.out.println("Los primitivos se dividen en Enteros y Floating Point");
+		System.out.println("Y aquí un ejemplo de narrow casting, era 9.78 pero al pasarlo a int se queda en 9");
+		double myDouble = 9.78d;
+		int myInt = (int) myDouble;
+		System.out.println(myInt);
 		System.out.println("·········································");
+		
 		
 		
 		
